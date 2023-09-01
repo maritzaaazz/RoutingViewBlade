@@ -50,7 +50,6 @@
                 <p>No: {{ $no6 }}</p>
             </td>
         </tr>
- 
     </table>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae, facilis ut mollitia a possimus saepe. Quidem debitis minima illo, saepe fugiat culpa qui aliquam sapiente? Dolore, aut quod! Quos, odio.</p>
     <p><a href="#">Ikuti tautan ini</a></p>
